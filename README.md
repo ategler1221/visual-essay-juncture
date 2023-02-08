@@ -3,7 +3,7 @@
 <param ve-config 
        title="Visual Design"
        author="Alison Tegler"
-       banner="https://iiif.juncture-digital.org/banner/?url=(https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/41_Ruffed_Grouse.jpg/1024px-41_Ruffed_Grouse.jpg)]" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
