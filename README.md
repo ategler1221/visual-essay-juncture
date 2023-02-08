@@ -4,7 +4,7 @@
        title="Visual Design"
        author="Alison Tegler"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
-       layout="horizontal">
+       layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -14,9 +14,9 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Visual Design Essay
+# Visual Design
 
-The design of many images within works of writing include elements that contribute to the writing as a whole. The images are designed in a unique yet contributive way that help the audience understand the writing as a whole. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+The design of many images within works of writing include elements that contribute to the writing as a whole. The images are designed in a unique yet contributive way that help the audience understand the writing and design choices along with it. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
